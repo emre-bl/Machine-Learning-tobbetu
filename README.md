@@ -14,8 +14,7 @@ Odev ile ilgili yapılması gereken adımlar asagıda listelenmiştir:
 7. Egitilen modellerin overfit olup olmadıgı kontrol edilmelidir. 
 8. Modeller arasında hem sınıflandırma ba¸sarımı hem de egitim ve test sureleri karsılastırılmalıdır. 
 9. Parametre optimizasyonu ger¸cekle¸stirilmeli ve bu parametre optimizasyonun ba¸sarıma etkisi gosterilmelidir. 
-10. En iyi 5 oznitelik istenilen yontem ile bulunmalı ve bu 5 oznitelik ile daha onceki adımda en iyi sonucu veren model tekrar egitilerek basarım, ve
-egitim/test sureleri karsılastırılmalıdır. 
+10. En iyi 5 oznitelik istenilen yontem ile bulunmalı ve bu 5 oznitelik ile daha onceki adımda en iyi sonucu veren model tekrar egitilerek basarım, ve egitim/test sureleri karsılastırılmalıdır. 
 11. Tüm deneyler boyunca elde edilen en iyi model ve verinin ön işleme adımları kaydedilmelidir. (.pickle olarak) 
 12. ogrencino test.ipynb dosyası içerisinde kaydedilen veri ön işleme adımı ve eğitilen model ile örnek bir test işlemi gerçekleştirilmelidir. 
 13. Bulgular bir sayfayı geçmeyecek şekilde dokümanda özetlenmelidir. 
